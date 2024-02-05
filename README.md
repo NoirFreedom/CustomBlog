@@ -25,7 +25,7 @@
 - **반응형 디자인을 위한 CSS 프레임워크**
 
 
-<img src="images/login.png" alt="Girl in a jacket" width="700" height="400">
-<img src="images/home.png" alt="Girl in a jacket" width="700" height="400">
-<img src="images/cart.png" alt="Girl in a jacket" width="700" height="400">
-<img src="images/main.png" alt="Girl in a jacket" width="700" height="400">
+<img src="images/login.png" width="700" height="400">
+<img src="images/home.png" width="700" height="400">
+<img src="images/cart.png" width="700" height="400">
+<img src="images/main.png" width="700" height="400">
